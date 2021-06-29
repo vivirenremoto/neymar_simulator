@@ -4,4 +4,4 @@
 
 [Autor](https://twitter.com/vivirenremoto)
 
-![Neymar Simulator](https://vivirenremoto.github.io/neymar_simulator/social.png)
+![Neymar Simulator](https://vivirenremoto.github.io/neymar_simulator/photo.png)
